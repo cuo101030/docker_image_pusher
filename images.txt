@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 mysql
+--platform=linux/arm64/v8 redis
