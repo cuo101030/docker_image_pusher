@@ -1,2 +1,2 @@
 # --platform=linux/arm64/v8 mysql:8
---platform=linux/arm64/v8 nacos-server:2.1.2-slim
+nacos-server:2.1.2-slim
